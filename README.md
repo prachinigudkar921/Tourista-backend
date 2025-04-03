@@ -1,3 +1,2 @@
 ﻿# tourista-react
-#visit to the website - 
-https://tourista-app.netlify.app
+#visit to the website - https://tourista-web.netlify.app/
